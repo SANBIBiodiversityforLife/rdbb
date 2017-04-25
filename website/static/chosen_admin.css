@@ -1,0 +1,8 @@
+.field-threats, .field-threats .related-widget-wrapper, 
+.field-habitats, .field-habitats .related-widget-wrapper,
+.field-references, .field-references .related-widget-wrapper {
+	overflow: visible !important;	
+}
+.chosen-container-multi .chosen-results {
+	width: 100%;
+}

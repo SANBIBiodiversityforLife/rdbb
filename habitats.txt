@@ -1,0 +1,607 @@
+1. Terrestrial > Artificial > Artificial > Cultivated 
+1. Terrestrial > Artificial > Artificial > Gardens
+1. Terrestrial > Artificial > Artificial > Pasture 
+1. Terrestrial > Artificial > Artificial > Plantation
+1. Terrestrial > Artificial > Artificial > Urban areas
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Andesite Mountain Bushveld
+1. Terrestrial > SVAkd Kalahari Duneveld > Savanna: Arid > Auob Duneveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Barberton Serpentine Sourveld
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > Bhisho Thornveld
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Cathedral Mopane Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Central Sandy Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Crocodile Gorge Mountain Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Delagoa Lowveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Dwaalboom Thornveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Dwarsberg-Swartruggens Mountain Bushveld
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > Eastern Valley Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Gabbro Grassy Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Gauteng Shale Mountain Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Ghaap Plateau Vaalbosveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Gold Reef Mountain Bushveld
+1. Terrestrial > SVAkd Kalahari Duneveld > Savanna: Arid > Gordonia Duneveld
+1. Terrestrial > SVAkd Kalahari Duneveld > Savanna: Arid > Gordonia Kameeldoring Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Gordonia Plains Shrubland
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Granite Lowveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Gravelotte Rocky Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Kaalrug Mountain Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Kathu Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Kimberley Thornveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Koranna-Langeberg Mountain Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Kuruman Mountain Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Kuruman Thornveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Kuruman Vaalbosveld
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > KwaZulu-Natal Hinterland Thornveld
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > KwaZulu-Natal Sandstone Sourveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Lebombo Summit Sourveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Legogote Sour Bushveld
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Limpopo Ridge Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Limpopo Sweet Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Loskop Mountain Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Loskop Thornveld
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Lowveld Rugged Mopaneveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Madikwe Dolomite Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Mafikeng Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Makatini Clay Thicket
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Makhado Sweet Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Makuleke Sandy Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Malelane Mountain Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Mamabolo Mountain Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Maputaland Pallid Sandy Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Marikana Thornveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Molopo Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Moot Plains Bushveld
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Mopane Basalt Shrubland
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Mopane Gabbro Shrubland
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Musina Mopane Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Muzi Palm Veld and Wooded Grassland
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > Ngongoni Veld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Norite Koppies Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Northern Lebombo Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Northern Zululand Sourveld
+1. Terrestrial > SVAkd Kalahari Duneveld > Savanna: Arid > Nossob Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Nwambyia-Pumbe Sandy Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Ohrigstad Mountain Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Olifantshoek Plains Thornveld
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Phalaborwa-Timbavati Mopaneveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Pilanesberg Mountain Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Polokwane Plateau Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Postmasburg Thornveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Poung Dolomite Mountain Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Pretoriuskop Sour Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Roodeberg Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Schmidtsdrif Thornveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Schweizer-Reneke Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Sekhukhune Mountain Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Sekhukhune Plains Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Southern Lebombo Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Soutpansberg Mountain Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Springbokvlakte Thornveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Stella Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Swaziland Sour Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Tembe Sandy Bushveld
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > Thukela Thornveld
+1. Terrestrial > SVMs Subescarpment > Savanna Moist > Thukela Valley Bushveld
+1. Terrestrial > SVMmp Mopane > Savanna Moist > Tsende Mopaneveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Tshokwane-Hlane Basalt Lowveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Tzaneen Sour Bushveld
+1. Terrestrial > SVAk Eastern Kalahari Bushveld > Savanna: Arid > Vaalbos Rocky Shrubland
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > VhaVenda Miombo
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Waterberg Mountain Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Western Maputaland Clay Bushveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Western Maputaland Sandy Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Western Sandy Bushveld
+1. Terrestrial > SVMcb Central Bushveld > Savanna Moist > Zeerust Thornveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Zululand Coastal Thornveld
+1. Terrestrial > SVMl Lowveld > Savanna Moist > Zululand Lowveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Aggeneys Gravel Vygieveld
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Agter-Sederberg Shrubland
+1. Terrestrial > Ff04 South Coast Fynbos Bioregion > Fynbos > Agulhas Limestone Fynbos
+1. Terrestrial > Ff04 South Coast Fynbos Bioregion > Fynbos > Agulhas Sand Fynbos
+1. Terrestrial > Albany Thicket > Albany Coastal Belt
+1. Terrestrial > Ff04 South Coast Fynbos Bioregion > Fynbos > Albertinia Sand Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Algoa Sandstone Fynbos
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Anenous Plateau Shrubland
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Atlantis Sand Fynbos
+1. Terrestrial > Fr06 Eastern Renosterveld > Fynbos > Baviaanskloof Shale Renosterveld
+1. Terrestrial > Fs12 Southern Strandveld > Fynbos > Blombos Strandveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Bokkeveld Sandstone Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Boland Granite Fynbos
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Breede Alluvium Fynbos
+1. Terrestrial > Fr05 Western Renosterveld > Fynbos > Breede Alluvium Renosterveld
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Breede Quartzite Fynbos
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Breede Sand Fynbos
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Breede Shale Fynbos
+1. Terrestrial > Fr05 Western Renosterveld > Fynbos > Breede Shale Renosterveld
+1. Terrestrial > Albany Thicket > Buffels Thicket
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Bushmanland Inselberg Shrubland
+1. Terrestrial > Albany Thicket > Camdebo Escarpment Thicket
+1. Terrestrial > Ff04 South Coast Fynbos Bioregion > Fynbos > Canca Limestone Fynbos
+1. Terrestrial > Fs11 Western Strandveld > Fynbos > Cape Flats Dune Strandveld
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Cape Flats Sand Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Cape Winelands Shale Fynbos
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Cederberg Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > Central Coastal Shale Band Vegetation
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Central Inland Shale Band Vegetation
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Central Knersvlakte Vygieveld
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Central Mountain Shale Renosterveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Central Richtersveld Mountain Shrubland
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Central Ruens Shale Renosterveld
+1. Terrestrial > Fr05 Western Renosterveld > Fynbos > Ceres Shale Renosterveld
+1. Terrestrial > Fr05 Western Renosterveld > Fynbos > Citrusdal Shale Renosterveld
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Citrusdal Vygieveld
+1. Terrestrial > Albany Thicket > Coega Bontveld
+1. Terrestrial > Ff04 South Coast Fynbos Bioregion > Fynbos > De Hoop Limestone Fynbos
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Die Plate Succulent Shrubland
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Doringrivier Quartzite Karoo
+1. Terrestrial > Albany Thicket > Eastern Cape Escarpment Thicket
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Eastern Coastal Shale Band Vegetation
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Eastern Inland Shale Band Vegetation
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Eastern Little Karoo
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Eastern Ruens Shale Renosterveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Eenriet Plains Succulent Shrubland
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Elgin Shale Fynbos
+1. Terrestrial > Ff04 South Coast Fynbos Bioregion > Fynbos > Elim Ferricrete Fynbos
+1. Terrestrial > Albany Thicket > Gamka Thicket
+1. Terrestrial > Albany Thicket > Gamtoos Thicket
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Garden Route Granite Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Garden Route Shale Fynbos
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Goariep Mountain Succulent Shrubland
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Graafwater Sandstone Fynbos
+1. Terrestrial > Albany Thicket > Great Fish Noorsveld
+1. Terrestrial > Albany Thicket > Great Fish Thicket
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Greyton Shale Fynbos
+1. Terrestrial > Fs12 Southern Strandveld > Fynbos > Groot Brak Dune Strandveld
+1. Terrestrial > Albany Thicket > Groot Thicket
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Grootrivier Quartzite Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Hangklip Sand Fynbos
+1. Terrestrial > SKl Trans-escarpment > Succulent Karoo > Hantam Karoo
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Hantam Plateau Dolerite Renosterveld
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Hawequas Sandstone Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Hopefield Sand Fynbos
+1. Terrestrial > Fr06 Eastern Renosterveld > Fynbos > Humansdorp Shale Renosterveld
+1. Terrestrial > Ff10 Namaqualand Fynbos > Fynbos > Kamiesberg Granite Fynbos
+1. Terrestrial > SKn Namaqualand Hardeveld > Succulent Karoo > Kamiesberg Mountains Shrubland
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > Kango Conglomerate Fynbos
+1. Terrestrial > Fr06 Eastern Renosterveld > Fynbos > Kango Limestone Renosterveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Klawer Sandy Shrubland
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Knersvlakte Dolomite Vygieveld
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Knersvlakte Quartz Vygieveld
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Knersvlakte Shale Vygieveld
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Knysna Sand Fynbos
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Kobee Succulent Shrubland
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Koedoesberge-Moordenaars Karoo
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Kogelberg Sandstone Fynbos
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Kosiesberg Succulent Shrubland
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Kouebokkeveld Alluvium Fynbos
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Kouebokkeveld Shale Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Kouga Grassy Sandstone Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Kouga Sandstone Fynbos
+1. Terrestrial > Albany Thicket > Kowie Thicket
+1. Terrestrial > Fs11 Western Strandveld > Fynbos > Lambert's Bay Strandveld
+1. Terrestrial > Fs11 Western Strandveld > Fynbos > Langebaan Dune Strandveld
+1. Terrestrial > Fr06 Eastern Renosterveld > Fynbos > Langkloof Shale Renosterveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Leipoldtville Sand Fynbos
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Lekkersing Succulent Shrubland
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Little Karoo Quartz Vygieveld
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Loerie Conglomerate Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Lourensford Alluvium Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > Matjiesfontein Quartzite Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > Matjiesfontein Shale Fynbos
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Matjiesfontein Shale Renosterveld
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Montagu Shale Fynbos
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Montagu Shale Renosterveld
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Mossel Bay Shale Renosterveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Namaqualand Arid Grassland
+1. Terrestrial > SKn Namaqualand Hardeveld > Succulent Karoo > Namaqualand Blomveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Namaqualand Coastal Duneveld
+1. Terrestrial > Fr10 Namaqualand Renosterveld > Fynbos > Namaqualand Granite Renosterveld
+1. Terrestrial > SKn Namaqualand Hardeveld > Succulent Karoo > Namaqualand Heuweltjieveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Namaqualand Inland Duneveld
+1. Terrestrial > SKn Namaqualand Hardeveld > Succulent Karoo > Namaqualand Klipkoppe Shrubland
+1. Terrestrial > Ff10 Namaqualand Fynbos > Fynbos > Namaqualand Sand Fynbos
+1. Terrestrial > SKn Namaqualand Hardeveld > Succulent Karoo > Namaqualand Shale Shrubland
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Namaqualand Spinescent Grassland
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Namaqualand Strandveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Nardouw Sandstone Fynbos
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Nieuwoudtville Shale Renosterveld
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Nieuwoudtville-Roggeveld Dolerite Renosterveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > North Hex Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > North Kammanassie Sandstone Fynbos
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > North Langeberg Sandstone Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > North Outeniqua Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > North Rooiberg Sandstone Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > North Sonderend Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > North Swartberg Sandstone Fynbos
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Northern Inland Shale Band Vegetation
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Northern Knersvlakte Vygieveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Northern Richtersveld Scorpionstailveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Northern Richtersveld Yellow Duneveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Olifants Sandstone Fynbos
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Oograbies Plains Sandy Grassland
+1. Terrestrial > Fs12 Southern Strandveld > Fynbos > Overberg Dune Strandveld
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Overberg Sandstone Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Peninsula Granite Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Peninsula Sandstone Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Peninsula Shale Fynbos
+1. Terrestrial > Fr07  West Coast Renosterveld > Fynbos > Peninsula Shale Renosterveld
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Piketberg Quartz Succulent Shrubland
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Piketberg Sandstone Fynbos
+1. Terrestrial > SKn Namaqualand Hardeveld > Succulent Karoo > Platbakkies Succulent Shrubland
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Potberg Ferricrete Fynbos
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Potberg Sandstone Fynbos
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Prince Albert Succulent Karoo
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Richtersveld Coastal Duneveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Richtersveld Red Duneveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Richtersveld Sandy Coastal Scorpionstailveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Riethuis-Wallekraal Quartz Vygieveld
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Robertson Granite Fynbos
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Robertson Granite Renosterveld
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Robertson Karoo
+1. Terrestrial > SKl Trans-escarpment > Succulent Karoo > Roggeveld Karoo
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Roggeveld Shale Renosterveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Rooiberg Quartz Vygieveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Rosyntjieberg Succulent Shrubland
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Ruens Silcrete Renosterveld
+1. Terrestrial > Fs11 Western Strandveld > Fynbos > Saldanha Flats Strandveld
+1. Terrestrial > Fs11 Western Strandveld > Fynbos > Saldanha Granite Strandveld
+1. Terrestrial > Fs11 Western Strandveld > Fynbos > Saldanha Limestone Strandveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > South Hex Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > South Kammanassie Sandstone Fynbos
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > South Langeberg Sandstone Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > South Outeniqua Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > South Rooiberg Sandstone Fynbos
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > South Sonderend Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > South Swartberg Sandstone Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Southern Cape Dune Fynbos
+1. Terrestrial > Albany Thicket > Southern Cape Valley Thicket
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Southern Richtersveld Inselberg Shrubland
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Southern Richtersveld Scorpionstailveld
+1. Terrestrial > SKs Namaqualand Sandveld > Succulent Karoo > Southern Richtersveld Yellow Duneveld
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Steytlerville Karoo
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Stinkfonteinberge Eastern Apron Shrubland
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Stinkfonteinberge Quartzite Fynbos
+1. Terrestrial > Subantarctic Tundra > Subantarctic Biotic Herbfield and Grassland
+1. Terrestrial > Subantarctic Tundra > Subantarctic Cinder Cones
+1. Terrestrial > Subantarctic Tundra > Subantarctic Coastal Vegetation
+1. Terrestrial > Subantarctic Tundra > Subantarctic Drainage Line and Spring Vegetation
+1. Terrestrial > Subantarctic Tundra > Subantarctic Fellfield
+1. Terrestrial > Subantarctic Tundra > Subantarctic Mire-Slope Vegetation
+1. Terrestrial > Albany Thicket > Sundays Noorsveld
+1. Terrestrial > Albany Thicket > Sundays Thicket
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Suurberg Quartzite Fynbos
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Suurberg Shale Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > Swartberg Altimontane Sandstone Fynbos
+1. Terrestrial > Ff05 Karoo Mountains Fynbos Bioregion > Fynbos > Swartberg Shale Fynbos
+1. Terrestrial > Fr06 Eastern Renosterveld > Fynbos > Swartberg Shale Renosterveld
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Swartland Alluvium Fynbos
+1. Terrestrial > Fr07  West Coast Renosterveld > Fynbos > Swartland Alluvium Renosterveld
+1. Terrestrial > Fr07  West Coast Renosterveld > Fynbos > Swartland Granite Renosterveld
+1. Terrestrial > Fr07  West Coast Renosterveld > Fynbos > Swartland Shale Renosterveld
+1. Terrestrial > Fr07  West Coast Renosterveld > Fynbos > Swartland Silcrete Renosterveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Swartruggens Quartzite Fynbos
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Swartruggens Quartzite Karoo
+1. Terrestrial > Ff03 Southern Fynbos Bioregion > Fynbos > Swellendam Silcrete Fynbos
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Tanqua Escarpment Shrubland
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Tanqua Karoo
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Tatasberg Mountain Succulent Shrubland
+1. Terrestrial > Ff06 Eastern Fynbos Bioregion > Fynbos > Tsitsikamma Sandstone Fynbos
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Umdaus Mountains Succulent Shrubland
+1. Terrestrial > Fr06 Eastern Renosterveld > Fynbos > Uniondale Shale Renosterveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Upper Annisvlakte Succulent Shrubland
+1. Terrestrial > SKk Knersvlakte > Succulent Karoo > Vanrhynsdorp Gannabosveld
+1. Terrestrial > Fr09 Karoo Renosterveld > Fynbos > Vanrhynsdorp Shale Renosterveld
+1. Terrestrial > SKr Richtersveld > Succulent Karoo > Vyftienmyl se Berge Succulent Shrubland
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Western Altimontane Sandstone Fynbos
+1. Terrestrial > SKl Trans-escarpment > Succulent Karoo > Western Bushmanland Klipveld
+1. Terrestrial > Ff02 Soutwest Fynbos Bioregion > Fynbos > Western Coastal Shale Band Vegetation
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Western Gwarrieveld
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Western Little Karoo
+1. Terrestrial > Fr08 South Coast Renosterveld > Fynbos > Western Ruens Shale Renosterveld
+1. Terrestrial > SKv Rainshadow Valley > Succulent Karoo > Willowmore Gwarrieveld
+1. Terrestrial > Ff01 Northwest Fynbos Bioregion > Fynbos > Winterhoek Sandstone Fynbos
+1. Terrestrial > Nkl Lower Karoo > Nama Karoo > Albany Broken Veld
+1. Terrestrial > Gh Dry Highveld > Grassland > Aliwal North Dry Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Amathole Mistbelt Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Amathole Montane Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Amersfoort Highveld Clay Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Barberton Montane Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Basotho Montane Shrubland
+1. Terrestrial > Gs Subescarpment > Grassland > Bedford Dry Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Besemkaree Koppies Shrubland
+1. Terrestrial > Gh Dry Highveld > Grassland > Bloemfontein Dry Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Bloemfontein Karroid Shrubland
+1. Terrestrial > NKb Bushmanland > Nama Karoo > Blouputs Karroid Thornveld
+1. Terrestrial > NKb Bushmanland > Nama Karoo > Bushmanland Arid Grassland
+1. Terrestrial > NKb Bushmanland > Nama Karoo > Bushmanland Basin Shrubland
+1. Terrestrial > NKb Bushmanland > Nama Karoo > Bushmanland Sandy Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Carletonville Dolomite Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Central Free State Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Drakensberg Afroalpine Heathland
+1. Terrestrial > Gs Subescarpment > Grassland > Drakensberg Foothill Moist Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Drakensberg-Amathole Afromontane Fynbos
+1. Terrestrial > Gs Subescarpment > Grassland > Dry Coast Hinterland Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > East Griqualand Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Eastern Free State Clay Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Eastern Free State Sandy Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Eastern Highveld Grassland
+1. Terrestrial > Nkl Lower Karoo > Nama Karoo > Eastern Lower Karoo
+1. Terrestrial > Nku Upper Karoo > Nama Karoo > Eastern Upper Karoo
+1. Terrestrial > Gm Mesic Highveld > Grassland > Egoli Granite Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Frankfort Highveld Grassland
+1. Terrestrial > Nkl Lower Karoo > Nama Karoo > Gamka Karoo
+1. Terrestrial > Gs Subescarpment > Grassland > Income Sandy Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Ithala Quartzite Sourveld
+1. Terrestrial > NKb Bushmanland > Nama Karoo > Kalahari Karroid Shrubland
+1. Terrestrial > Gm Mesic Highveld > Grassland > KaNgwane Montane Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Karoo Escarpment Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Klerksdorp Thornveld
+1. Terrestrial > Indian Ocean Coastal Belt > KwaZulu-Natal Coastal Belt Grassland
+1. Terrestrial > Indian Ocean Coastal Belt > KwaZulu-Natal Coastal Belt Thornveld
+1. Terrestrial > Gs Subescarpment > Grassland > KwaZulu-Natal Highland Thornveld
+1. Terrestrial > Gm Mesic Highveld > Grassland > Leolo Summit Sourveld
+1. Terrestrial > Gd Drakensberg > Grassland > Lesotho Highland Basalt Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Long Tom Pass Montane Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Low Escarpment Moist Grassland
+1. Terrestrial > NKb Bushmanland > Nama Karoo > Lower Gariep Broken Veld
+1. Terrestrial > Nkl Lower Karoo > Nama Karoo > Lower Karoo Gwarrieveld
+1. Terrestrial > Gm Mesic Highveld > Grassland > Lydenburg Thornveld
+1. Terrestrial > Gs Subescarpment > Grassland > Mabela Sandy Grassland
+1. Terrestrial > Indian Ocean Coastal Belt > Maputaland Coastal Belt
+1. Terrestrial > Indian Ocean Coastal Belt > Maputaland Wooded Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Midlands Mistbelt Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Moist Coast Hinterland Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Mooi River Highland Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Mthatha Moist Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Northern Drakensberg Highland Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Northern Escarpment Afromontane Fynbos
+1. Terrestrial > Gm Mesic Highveld > Grassland > Northern Escarpment Dolomite Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Northern Escarpment Quartzite Sourveld
+1. Terrestrial > Gm Mesic Highveld > Grassland > Northern Free State Shrubland
+1. Terrestrial > Gs Subescarpment > Grassland > Northern KwaZulu-Natal Moist Grassland
+1. Terrestrial > Nku Upper Karoo > Nama Karoo > Northern Upper Karoo
+1. Terrestrial > Gs Subescarpment > Grassland > Northern Zululand Mistbelt Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Paulpietersburg Moist Grassland
+1. Terrestrial > Indian Ocean Coastal Belt > Pondoland-Ugu Sandstone Coastal Sourveld
+1. Terrestrial > Gs Subescarpment > Grassland > Queenstown Thornveld
+1. Terrestrial > Gm Mesic Highveld > Grassland > Rand Highveld Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Sekhukhune Montane Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Senqu Montane Shrubland
+1. Terrestrial > Gd Drakensberg > Grassland > Southern Drakensberg Highland Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Southern KwaZulu-Natal Moist Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Soutpansberg Summit Sourveld
+1. Terrestrial > Gm Mesic Highveld > Grassland > Soweto Highveld Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Steenkampsberg Montane Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Stormberg Plateau Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Strydpoort Summit Sourveld
+1. Terrestrial > Gs Subescarpment > Grassland > Tarkastad Montane Shrubland
+1. Terrestrial > Indian Ocean Coastal Belt > Transkei Coastal Belt
+1. Terrestrial > Gm Mesic Highveld > Grassland > Tsakane Clay Grassland
+1. Terrestrial > Gs Subescarpment > Grassland > Tsomo Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > uKhahlamba Basalt Grassland
+1. Terrestrial > Nku Upper Karoo > Nama Karoo > Upper Karoo Hardeveld
+1. Terrestrial > Gh Dry Highveld > Grassland > Vaal Reefs Dolomite Sinkhole Woodland
+1. Terrestrial > Gh Dry Highveld > Grassland > Vaal-Vet Sandy Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Vredefort Dome Granite Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Wakkerstroom Montane Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Waterberg-Magaliesberg Summit Sourveld
+1. Terrestrial > Gh Dry Highveld > Grassland > Western Free State Clay Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Western Highveld Sandy Grassland
+1. Terrestrial > Gd Drakensberg > Grassland > Western Lesotho Basalt Shrubland
+1. Terrestrial > Nku Upper Karoo > Nama Karoo > Western Upper Karoo
+1. Terrestrial > Gh Dry Highveld > Grassland > Winburg Grassy Shrubland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Wolkberg Dolomite Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Woodbush Granite Grassland
+1. Terrestrial > Gh Dry Highveld > Grassland > Xhariep Karroid Grassland
+1. Terrestrial > Gm Mesic Highveld > Grassland > Zastron Moist Grassland
+1. Terrestrial > Caves
+1. Terrestrial > Other Subterranean habitats
+1. Terrestrial > Dn Southern Namib > Desert > Alexander Bay Coastal Duneveld
+1. Terrestrial > Dg Gariep Desert > Desert > Eastern Gariep Plains Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Eastern Gariep Rocky Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Helskloof Canyon Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Kahams Mountain Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Kwaggarug Mountain Desert
+1. Terrestrial > Dn Southern Namib > Desert > Namib Lichen Fields
+1. Terrestrial > Dg Gariep Desert > Desert > Noms Mountain Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Northern Nababiepsberge Mountain Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Richtersberg Mountain Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Richtersveld Sheet Wash Desert
+1. Terrestrial > Dg Gariep Desert > Desert > Southern Nababiepsberge Mountain Desert
+1. Terrestrial > PD Polar Desert > Polar Desert > Subantarctic Polar Desert
+1. Terrestrial > Dn Southern Namib > Desert > Western Gariep Hills Desert
+1. Terrestrial > Dn Southern Namib > Desert > Western Gariep Lowland Desert
+1. Terrestrial > Dn Southern Namib > Desert > Western Gariep Plains Desert
+1. Terrestrial > Eastern Coast Belt Forest > Mangrove Forest
+1. Terrestrial > Afrotemperate Forest > Lowveld Riverine Forest
+1. Terrestrial > Afrotemperate Forest > Southern Afrotemperate Forest
+1. Terrestrial > Afrotemperate Forest > Northern Afrotemperate Forest
+1. Terrestrial > Afrotemperate Forest > Southern Mistbelt Forest
+1. Terrestrial > Afrotemperate Forest > Northern Mistbelt Forest
+1. Terrestrial > Afrotemperate Forest > Scarp Forest
+1. Terrestrial > Eastern Coast Belt Forest > Southern Coastal Forest
+1. Terrestrial > Eastern Coast Belt Forest > Northern Coastal Forest
+1. Terrestrial > Eastern Coast Belt Forest > Sand Forest
+1. Terrestrial > Eastern Coast Belt Forest > Ironwood Dry Forest
+1. Terrestrial/Estuarine > Eastern Coast Belt Forest > Swamp Forest
+2. Freshwater > Artificial > Artificial > Aquaculture pools
+2. Freshwater > Artificial > Artificial > Canals
+2. Freshwater > Artificial > Artificial > Dams
+2. Freshwater > Artificial > Artificial > Irrigation
+2. Freshwater > Ponds
+2. Freshwater > Artificial > Artificial > Quarries
+2. Freshwater > Salt water ponds
+2. Freshwater > Salt works
+2. Freshwater > Artificial > Artificial > Seasonally flooded cropland
+2. Freshwater > Artificial > Artificial > Sewerage Works
+2. Freshwater > Artificial > Artificial > Underground waterways
+2. Freshwater >  Shrub Dominated Wetlands
+2. Freshwater > Freshwater lakes (> 8ha)
+2. Freshwater > Hot Springs
+2. Freshwater > Inland Deltas
+2. Freshwater > Marshes and Pools (< 8ha)
+2. Freshwater > Rivers - permanent
+2. Freshwater > Rvers - intermittant
+2. Freshwater > Salt Lakes
+2. Freshwater > Salt Pans (permanent)
+2. Freshwater > Seasonal Lakes (> 8ha)
+2. Freshwater > Seasonal Marshes (<8ha)
+2. Freshwater > Seasonal Salt Lakes
+2. Freshwater > Seasonal/Intermittent Saline, Brackish or Alkaline Marshes/Pools
+2. Freshwater > Springs and Oases
+2. Freshwater > Subterranean aquatic
+2. Freshwater > Swamps and Peats
+3. Marine > Pelagic (2)?
+3. Marine > Pelagic (3)?
+3. Marine > Pelagic (4)?
+3. Marine > Pelagic (5)?
+3. Marine > Agulhas Canyon
+3. Marine > Agulhas Gravel Inner Shelf
+3. Marine > Agulhas Gravel Outer Shelf
+3. Marine > Agulhas Gravel Shelf Edge
+3. Marine > Agulhas Hard Inner Shelf
+3. Marine > Agulhas Hard Outer Shelf
+3. Marine > Agulhas Hard Shelf Edge
+3. Marine > Agulhas Inner Shelf Reef
+3. Marine > Agulhas Mixed Sediment Inner Shelf
+3. Marine > Agulhas Mixed Sediment Outer Shelf
+3. Marine > Agulhas Muddy Inner Shelf
+3. Marine > Agulhas Muddy Outer Shelf
+3. Marine > Agulhas Muddy Shelf Edge
+3. Marine > Agulhas Outer Shelf Reef
+3. Marine > Agulhas Sandy Inner Shelf
+3. Marine > Agulhas Sandy Outer Shelf
+3. Marine > Agulhas Sandy Shelf Edge
+3. Marine > Agulhas Shelf Edge Reef
+3. Marine > Delagoa  Sandy Shelf Edge
+3. Marine > Delagoa Canyon
+3. Marine > Delagoa Sandy Shelf
+3. Marine > Delagoa Shelf Edge Reef
+3. Marine > Delagoa Shelf Reef
+3. Marine > Namaqua Hard Inner Shelf
+3. Marine > Namaqua Inner Shelf Reef
+3. Marine > Namaqua Muddy Inner Shelf
+3. Marine > Namaqua Sandy Inner Shelf
+3. Marine > Natal Canyon
+3. Marine > Natal Gravel Shelf
+3. Marine > Natal Gravel Shelf Edge
+3. Marine > Natal Mixed Sediment Shelf
+3. Marine > Natal Mixed Sediment Shelf Edge
+3. Marine > Natal Muddy Shelf
+3. Marine > Natal Muddy Shelf Edge
+3. Marine > Natal Sandy Shelf
+3. Marine > Natal Sandy Shelf Edge
+3. Marine > Natal Shelf Edge Reef
+3. Marine > Natal Shelf Reef
+3. Marine > South Atlantic Abyss
+3. Marine > South Atlantic Abyss With Ferro-Manganese Deposits
+3. Marine > South Atlantic Lower Bathyal
+3. Marine > South Atlantic Upper Bathyal
+3. Marine > Southeast Atlantic Seamounts
+3. Marine > Southern Benguela Canyon
+3. Marine > Southern Benguela Carbonate Mound
+3. Marine > Southern Benguela Gravel Outer Shelf
+3. Marine > Southern Benguela Gravel Shelf Edge
+3. Marine > Southern Benguela Hard Outer Shelf
+3. Marine > Southern Benguela Hard Shelf Edge
+3. Marine > Southern Benguela Muddy Outer Shelf
+3. Marine > Southern Benguela Muddy Shelf Edge
+3. Marine > Southern Benguela Outer Shelf Reef
+3. Marine > Southern Benguela Sandy Outer Shelf
+3. Marine > Southern Benguela Sandy Shelf Edge
+3. Marine > Southwest Indian Abyss
+3. Marine > Southwest Indian Abyss With Ferro-Manganese Deposits
+3. Marine > Southwest Indian Lower Bathyal
+3. Marine > Southwest Indian Lower Bathyal With Ferro-Manganese Deposits
+3. Marine > Southwest Indian Seamounts
+3. Marine > Southwest Indian Upper Bathyal
+3. Marine > Southwestern Cape Hard Inner Shelf
+3. Marine > Southwestern Cape Sandy Inner Shelf
+3. Marine > Deepreef (below the coral line)? > Continental Slope/Bathyl Zone (200–4,000 m)
+3. Marine > Abyssal Mountain/Hills (4,000–6,000 m)
+3. Marine > Hadal/Deep Sea Trench (>6,000 m)
+3. Marine > Deep Sea Vents (Rifts/Seeps)
+3. Marine > Rocky Shoreline
+3. Marine > Sandy Shoreline
+3. Marine > Shingle/Pebble beaches
+3. Marine > Tidalpools
+3. Marine > Agulhas Island
+3. Marine > Namaqua Island
+3. Marine > Southwestern Cape Island
+4. Estuarine > Coastal Brackish/Saline Lagoons/Marine Lakes
+3. Marine > Coastal Caves/Karst
+3. Marine > Coastal Sand Dunes
+4. Estuarine? > Coastal Freshwater Lakes
+3. Marine > Harbour
+3. Marine > Artificial > Artificial > Mariculture cages
+3. Marine > Agulhas Boulder Shore
+3. Marine > Agulhas Dissipative Sandy Coast
+3. Marine > Agulhas Dissipative-Intermediate Sandy Coast
+3. Marine > Agulhas Estuarine Shore
+3. Marine > Agulhas Exposed Rocky Coast
+3. Marine > Agulhas Inshore Gravel
+3. Marine > Agulhas Inshore Hard Grounds
+3. Marine > Agulhas Inshore Reef
+3. Marine > Agulhas Intermediate Sandy Coast
+3. Marine > Agulhas Mixed Shore
+3. Marine > Agulhas Reflective Sandy Coast
+3. Marine > Agulhas Sandy Inshore
+3. Marine > Agulhas Sheltered Rocky Coast
+3. Marine > Agulhas Very Exposed Rocky Coast
+3. Marine > Coral Reef
+3. Marine > Delagoa Inshore Reef
+3. Marine > Delagoa Mixed Shore
+3. Marine > Delagoa Sandy Inshore
+3. Marine > Delagoa Very Exposed Rocky Coast
+3. Marine > Estuaries > Estuaries
+3. Marine > Kelp Forests
+3. Marine > Namaqua Boulder Shore
+3. Marine > Namaqua Exposed Rocky Coast
+3. Marine > Namaqua Inshore Hard Grounds
+3. Marine > Namaqua Inshore Reef
+3. Marine > Namaqua Mixed Shore
+3. Marine > Namaqua Muddy Inshore
+3. Marine > Namaqua Sandy Inshore
+3. Marine > Namaqua Sheltered Rocky Coast
+3. Marine > Namaqua Very Exposed Rocky Coast
+3. Marine > Natal Boulder Shore
+3. Marine > Natal Estuarine Shore
+3. Marine > Natal Exposed Rocky Coast
+3. Marine > Natal Inshore Gravel
+3. Marine > Natal Inshore Reef
+3. Marine > Natal Mixed Shore
+3. Marine > Natal Muddy Inshore
+3. Marine > Natal Sandy Inshore
+3. Marine > Natal Very Exposed Rocky Coast
+3. Marine > Natal-Delagoa Dissipative Sandy Coast
+3. Marine > Natal-Delagoa Dissipative-Intermediate Sandy Coast
+3. Marine > Natal-Delagoa Estuarine Shore
+3. Marine > Natal-Delagoa Intermediate Sandy Coast
+3. Marine > Natal-Delagoa Reflective Sandy Coast
+3. Marine > Marine Pelagic (the vast water column) > Pelagic 
+3. Marine > Southern Benguela Dissipative Sandy Coast
+3. Marine > Southern Benguela Dissipative-Intermediate Sandy Coast
+3. Marine > Southern Benguela Estuarine Shore
+3. Marine > Southern Benguela Intermediate Sandy Coast
+3. Marine > Southern Benguela Reflective Sandy Coast
+3. Marine > Southwestern Cape Boulder Shore
+3. Marine > Southwestern Cape Exposed Rocky Coast
+3. Marine > Southwestern Cape Inshore Hard Grounds
+3. Marine > Southwestern Cape Inshore Reef
+3. Marine > Lagoon > Southwestern Cape Lagoon
+3. Marine > Southwestern Cape Mixed Shore
+3. Marine > Southwestern Cape Sandy Inshore
+3. Marine > Southwestern Cape Sheltered Rocky Coast
+3. Marine > Southwestern Cape Very Exposed Rocky Coast
+3. Marine > Outer Reef Channel
+3. Marine > Inter-Reef Soft Substrate
+3. Marine > Inter-Reef Rubble Substrate
+4. Estuarine > Intertidal Salt Marsh Shoreline
+4. Estuarine/Terestrial > Mangroves
+4. Estuarine > Mud Flats
+4. Estuarine > Supratidal Salt  Marsh Shoreline
+4. Estuarine > Reeds and sedges (Estuarine edge)
+4. Estuarine/Marine > Seagrass meadows
+4. Estuarine > Artificial > Artificial > Estuarine Channels
+4. Estuarine > Sand banks
+Other
+Unknown

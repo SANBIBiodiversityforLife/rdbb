@@ -1,0 +1,132 @@
+{% extends "website/_base.html" %}
+{% load static %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static 'bib-publication-list.css' %}" type="text/css" />
+<link rel="stylesheet" href="{% static 'bib-list-custom.css' %}" type="text/css" />
+{% endblock %}
+
+{% block js %}
+<script src="{% static 'bib-list.js' %}"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    bibtexify("#bibtex", "pubTable");
+  });
+</script>
+{% endblock %}
+
+{% block content %}
+<div class="col-md-12">
+  <h1><strong>{{ bird.family }}</strong>: {{ bird }} <small>{{ bird.author }}</small></h1>
+  <p><strong>Assessed by:</strong> <span class="fragment">{% for contributor in bird.contribution_set.all %}
+  {% if contributor.get_type_display == "Assessor" %}{{ contributor.person }}<span class="fragment-divider">, </span>{% endif %}
+  {% endfor %}</span> /
+  <strong>Reviewed by</strong>: <span class="fragment">{% for contributor in bird.contribution_set.all %}
+  {% if contributor.get_type_display == "Reviewer" %}{{ contributor.person }}<span class="fragment-divider">, </span>{% endif %}
+  {% endfor %}</span></p>
+  <hr>
+</div>
+<div class="col-md-9">
+  <h2 id="statuses">Statuses</h2>
+  <table class="table">
+    <thead><tr>
+      <th>Regional 2015</th>
+      <th>Regional 2010</th>
+      <th>Regional 2000</th>
+      <th>Global 2015</th>
+    </tr></thead>
+    <tbody><tr>
+      <td>{{ bird.regional_status_2015 }}</td>
+      <td>{{ bird.regional_status_2010 }}</td>
+      <td>{{ bird.regional_status_2000 }}</td>
+      <td>{{ bird.global_status_2015 }}</td>
+    </tr></tbody>
+  </table>
+  <h3>Reason for change</h3>
+  <p>{{ bird.status_change_reason }}</p>
+  <hr>
+  <h2 id='justification'>Justification</h2>
+  {{ bird.justification|safe }}
+  <hr>
+  <h2 id="inclusion_reason">Reasons for inclusion</h2>
+  {{ bird.inclusion_reason|safe }}
+  <hr>
+  <h2 id="population">Population</h2>
+  <img src="{% static 'distribution_maps/' %}{{ bird.scientific_name.split|join:'_' }}.png">
+  <table class="table">
+    <thead><tr>
+      <th>Population size</th>
+      <th>Distributed over</th>
+      <th>Regional endemic?</th>
+    </tr></thead>
+    <tbody><tr>
+      <td>{{ bird.population_size }}</td>
+      <td>{{ bird.distribution_size }}</td>
+      <td>{{ bird.regional_endemic }}</td>
+    </tr></tbody>
+  </table>
+  <h3>Population justification</h3>
+  {{ bird.population_justification|safe }}
+  <h3>Population trend justification</h3>
+  {{ bird.population_trend_justification|safe }}
+  <hr>
+  <h2 id="distribution">Distribution</h2>
+  {{ bird.distribution|safe }}
+  {% if bird.habitats.all|length > 0 %}
+  <h3>Habitat list</h3>
+  {{ bird.habitats.all|join:"<br>" }}
+  {% endif %}
+  <hr>
+  <h2 id="taxonomy">Taxonomy</h2>
+  {{ bird.taxonomy|safe }}
+  <hr>
+  <h2 id="identification">Identification</h2>
+  {{ bird.identification|safe }}
+  <hr>
+  <h2 id="ecology">Ecology</h2>
+  {{ bird.ecology|safe }}
+  <hr>
+  <h2 id="threats">Threats</h2>
+  {{ bird.threats_narrative|safe }}
+  {% if bird.threats.all|length > 0 %}
+  <h3>Threat list</h3>
+  {{ bird.threats.all|join:"<br>" }}
+  {% endif %}
+  <hr>
+  <h2 id="conservation_underway">Conservation underway</h2>
+  {{ bird.conservation_underway|safe }}
+  <hr>
+  <h2 id="conservation_proposed">Conservation proposed</h2>
+  {{ bird.conservation_proposed|safe }}
+  <hr>
+  <h2 id="research_priorities">Research priorities</h2>
+  {{ bird.research_priorities|safe }}
+  <hr><hr>
+  <h2 id="references">References</h2>
+  {% if bird.references.all|length > 0 %}
+  <table id="pubTable" class="display"></table>
+  <pre id="bibtex">{% for b in bird.references.all %}{{ b.bibtex|safe }}{% endfor %}</pre>
+  {% else %}None{% endif %}
+  <br><hr><br>
+</div>
+<div class="col-md-3">
+  <nav data-spy="affix" data-offset-top="5" data-offset-bottom="20">
+    <ul class="nav">
+      <li><a href="#statuses">Statuses</a></li>
+      <li><a href="#justification">Justification</a></li>
+      <li><a href="#inclusion_reason">Reasons for inclusion</a></li>
+      <li><a href="#population">Population</a></li>
+      <li><a href="#distribution">Distribution</a></li>
+      <li><a href="#taxonomy">Taxonomy</a></li>
+      <li><a href="#identification">Identification</a></li>
+      <li><a href="#ecology">Ecology</a></li>
+      <li><a href="#threats">Threats</a></li>
+      <li><a href="#conservation_underway">Conservation underway</a></li>
+      <li><a href="#conservation_proposed">Conservation proposed</a></li>
+      <li><a href="#research_priorities">Research priorities</a></li>
+      <li><a href="#references">References</a></li>
+      <li><a href="#top" style="font-size: 0.7em">Back to top</a></li>
+    </ul>
+  </nav>
+</div>
+{% endblock content %}

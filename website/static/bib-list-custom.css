@@ -1,0 +1,9 @@
+#pubTablepubchart, .legend, #pubTable_filter {
+    display: none;
+}
+#pubTable {
+    margin-top: 20px;
+}
+.fragment .fragment-divider:last-of-type {
+    display: none;
+}

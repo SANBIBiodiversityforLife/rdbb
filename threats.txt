@@ -1,0 +1,139 @@
+Residential and commercial development > Housing and urban areas
+Residential and commercial development > Commercial and industrial areas
+Residential and commercial development > Tourism and recreation areas
+Agriculture > Annual and perennial non-timber crops > Shifting agriculture
+Agriculture > Annual and perennial non-timber crops > Small-holder farming
+Agriculture > Annual and perennial non-timber crops > Agro-industry farming
+Agriculture > Annual and perennial non-timber crops > Scale Unknown/Unrecorded
+Agriculture > Wood and pulp plantations > Small-holder plantations
+Agriculture > Wood and pulp plantations > Agro-industry plantations
+Agriculture > Wood and pulp plantations > Scale Unknown/Unrecorded
+Agriculture > Livestock farming and ranching > Nomadic grazing
+Agriculture > Livestock farming and ranching > Small-holder grazing, ranching or farming
+Agriculture > Livestock farming and ranching > Agro-industry grazing, ranching or farming (extensive)
+Agriculture > Livestock farming and ranching > Agro-industgrazing, ranching or farming (intensive)
+Agriculture > Livestock farming and ranching > Scale Unknown/Unrecorded
+Aquaculture > Marine and freshwater aquaculture > Landbased subsistence/artisinal aquaculture
+Aquaculture > Marine and freshwater aquaculture > In Situ subsistence/artisinal aquaculture
+Aquaculture > Marine and freshwater aquaculture > Landbased industrial aquaculture
+Aquaculture > Marine and freshwater aquaculture > In Situ industrial aquaculture
+Aquaculture > Marine and freshwater aquaculture > Scale Unknown/Unrecorded
+Energy production and mining > Oil and gas drilling
+Energy production and mining > Seismic surveys
+Energy production and mining > Pipelines
+Energy production and mining > Mining and quarrying
+Energy production and mining > Renewable energy
+Transportation and service corridors > Roads and railroads
+Transportation and service corridors > Utility and service lines
+Transportation and service corridors > Shipping lanes
+Transportation and service corridors > Flight paths
+Biological resource use > Hunting and trapping terrestrial animals > Intentional use: Hunting/collecting
+Biological resource use > Hunting and trapping terrestrial animals > Intentional use: Bushmeat
+Biological resource use > Hunting and trapping terrestrial animals > Intentional use: Muthi
+Biological resource use > Hunting and trapping terrestrial animals > Intentional use: Other
+Biological resource use > Hunting and trapping terrestrial animals > Unintentional effects (species is not the target)
+Biological resource use > Hunting and trapping terrestrial animals > Persecution/control
+Biological resource use > Hunting and trapping terrestrial animals > Motivation Unknown/Unrecorded
+Biological resource use > Gathering terrestrial plants > Intentional use: Medicine - destructive, species not able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Medicine -  non-destructive, species able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Horticulture  - destructive, species not able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Horticulture  -  non-destructive, species able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Food  - destructive, species not able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Food -  non-destructive, species able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Wildflower harvesting  -  non-destructive, species able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Other  -  destructive, species not able to recover
+Biological resource use > Gathering terrestrial plants > Intentional use: Other  -  non-destructive, species able to recover
+Biological resource use > Gathering terrestrial plants > Unintentional effects (species is not the target)
+Biological resource use > Gathering terrestrial plants > Persecution/control
+Biological resource use > Gathering terrestrial plants > Motivation Unknown/Unrecorded
+Biological resource use > Logging and wood harvesting > Intentional use - destructive, species not able to recover - subsistence/small scale harvesting
+Biological resource use > Logging and wood harvesting > Intentional use - destructive, species not able to recover - large scale harvesting
+Biological resource use > Logging and wood harvesting > Intentional use - non-destructive, species able to recover - subsistence/small scale harvesting
+Biological resource use > Logging and wood harvesting > Intentional use - non-destructive, species able to recover - large scale harvesting
+Biological resource use > Logging and wood harvesting > Unintentional effects - subsistence/small scale harvesting
+Biological resource use > Logging and wood harvesting > Unintentional effects - large scale harvesting
+Biological resource use > Logging and wood harvesting > Motivation Unknown/Unrecorded  - 
+Biological resource use > Fishing and harvesting aquatic resource > Intentional use - subsistence/small scale harvesting
+Biological resource use > Fishing and harvesting aquatic resource > Intentional use - recreational fishing
+Biological resource use > Fishing and harvesting aquatic resource > Intentional use - large scale harvesting
+Biological resource use > Fishing and harvesting aquatic resource > Unintentional effects - subsistence/small scale harvesting
+Biological resource use > Fishing and harvesting aquatic resource > Unintentional effects - large scale harvesting
+Biological resource use > Fishing and harvesting aquatic resource > Persecution/control (e.g. shark netting)
+Biological resource use > Fishing and harvesting aquatic resource > Motivation Unknown/Unrecorded
+Human intrusions and disturbance > Recreational activities
+Human intrusions and disturbance > War, civil unrest and military exercises
+Human intrusions and disturbance > Ammunition dumping
+Human intrusions and disturbance > Work and other activities
+Natural system modifications > Fire and fire suppression > Increase in fire frequency/intensity
+Natural system modifications > Fire and fire suppression > Suppression in fire frequency/intensity
+Natural system modifications > Fire and fire suppression > Aseasonal fires
+Natural system modifications > Fire and fire suppression > Disruption of natural fire regime
+Natural system modifications > Fire and fire suppression > Trend Unknown/Unrecorded
+Natural system modifications > Erosion
+Natural system modifications > Abstraction of surface water > Domestic use
+Natural system modifications > Abstraction of surface water > Commercial use
+Natural system modifications > Abstraction of surface water > Agricultural use
+Natural system modifications > Abstraction of surface water > Unknown use
+Natural system modifications > Abstraction of ground water > Domestic use
+Natural system modifications > Abstraction of ground water > Commercial use
+Natural system modifications > Abstraction of ground water > Agricultural use
+Natural system modifications > Abstraction of ground water > Unknown use
+Natural system modifications > Alteration of surface water flow > Small dams
+Natural system modifications > Alteration of surface water flow > Large dams
+Natural system modifications > Alteration of surface water flow > Size unknown
+Natural system modifications > Alteration of surface water flow > Canalisation
+Natural system modifications > Alteration of surface water flow > Transfer schemes
+Natural system modifications > Alteration of surface water flow > Infilling
+Natural system modifications > Alteration of surface water flow > River / Estuary mouth manipulation (Artificial breach, stabilisation)
+Natural system modifications > Other ecosystem modifications > Dredging of  rivers, estuaries, marinas and harbours
+Natural system modifications > Other ecosystem modifications > Bush encroachment
+Natural system modifications > Other ecosystem modifications > Bush Clearing
+Natural system modifications > Other ecosystem modifications > Road verge clearing/mowing
+Natural system modifications > Other ecosystem modifications > Veld management for thatch harvesting
+Invasive and other problematic species, genes and diseases > Invasive non-native/alien species > Unspecified species
+Invasive and other problematic species, genes and diseases > Invasive non-native/alien species > Named species
+Invasive and other problematic species, genes and diseases > Invasive non-native/diseases > Unspecified species
+Invasive and other problematic species, genes and diseases > Invasive non-native/diseases > Named species
+Invasive and other problematic species, genes and diseases > Problematic native species > Unspecified species
+Invasive and other problematic species, genes and diseases > Problematic native species > Named species
+Invasive and other problematic species, genes and diseases > Problematic native diseases > Unspecified species
+Invasive and other problematic species, genes and diseases > Problematic native diseases > Named species
+Invasive and other problematic species, genes and diseases > Introduced genetic material
+Invasive and other problematic species, genes and diseases > Problematic species of unknown origin > Unspecified species
+Invasive and other problematic species, genes and diseases > Problematic species of unknown origin > Named species
+Invasive and other problematic species, genes and diseases > Problematic disease of unknown origin > Unspecified species
+Invasive and other problematic species, genes and diseases > Problematic disease of unknown origin > Named species
+Invasive and other problematic species, genes and diseases > Viral/prion-induced diseases
+Invasive and other problematic species, genes and diseases > Diseases of unknown cause > Pathogens/parasites
+Pollution > Domestic and urban waste water > Sewage
+Pollution > Domestic and urban waste water > Run-off
+Pollution > Domestic and urban waste water > Type Unknown/Unrecorded
+Pollution > Industrial and military effluents > Oil spills
+Pollution > Industrial and military effluents > Seepage from mining
+Pollution > Industrial and military effluents > Type Unknown/Unrecorded
+Pollution > Agricultural and forestry effluents > Nutrient loads
+Pollution > Agricultural and forestry effluents > Sedimentation
+Pollution > Agricultural and forestry effluents > Herbicides and pesticides
+Pollution > Agricultural and forestry effluents > Type Unknown/Unrecorded
+Pollution > Garbage and solid waste
+Pollution > Air-borne pollutants > Acid rain
+Pollution > Air-borne pollutants > Smog
+Pollution > Air-borne pollutants > Ozone
+Pollution > Air-borne pollutants > Type Unknown/Unrecorded
+Pollution > Excess energy > Light pollution
+Pollution > Excess energy > Thermal pollution
+Pollution > Excess energy > Noise pollution
+Pollution > Excess energy > Type Unknown/Unrecorded
+Geological events > Volcanoes
+Geological events > Earthquakes/tsunamis
+Geological events > Avalanches/landslides
+Climate change and severe weather > Habitat shifting and alteration
+Climate change and severe weather > Droughts
+Climate change and severe weather > Temperature extremes
+Climate change and severe weather > Storms and flooding
+Climate change and severe weather > Other impacts
+Climate change and severe weather > Ocean warming
+Climate change and severe weather > Ocean acidification
+Climate change and severe weather > Ocean de-oxgenation
+Other threats 
+No threats

@@ -1,0 +1,36 @@
+{% extends "website/_base.html" %}
+{% load static %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.10.12/datatables.min.css"/>
+{% endblock %}
+
+{% block content %}
+<h1>SANBI Bird Red List</h1>
+<hr>
+<table class="table table-striped table-hover" id="listing">
+  <thead><tr><th>Common name</th><th>Scientific name</th><th>Family</th><th>2015 Regional Status</th><th>&nbsp;</th><th>&nbsp;</th></tr></thead>
+  <tbody>
+  {% for bird in birds %}
+    <tr>
+      <td>{{ bird.common_name }}</td>
+      <td><em>{{ bird.scientific_name }}</em></td>
+      <td>{{ bird.family }}</td>
+      <td>{{ bird.regional_status_2015 }}</td>
+      <td>{% for contributor in bird.contribution_set.all %}{% if contributor.get_type_display == "Assessor" %}{{ contributor.person }}
+  {% endif %}{% endfor %}</td>
+      <td><a href="{% url 'species_detail' bird.slug %}" class="btn btn-default">View</a></td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endblock content %}
+
+{% block js %}
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.10.12/datatables.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('#listing').DataTable();
+} );
+</script>
+{% endblock %}
